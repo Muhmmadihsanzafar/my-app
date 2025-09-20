@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Muhmmadihsanzafar/my-app/issues"
   },
-  "homepage": "https://github.com/Muhmmadihsanzafar/my-app#readme"
+  "homepage": "https://github.com/Muhmmadihsanzafar/my-app#readme",
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
 }
